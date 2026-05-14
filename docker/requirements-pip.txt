@@ -43,9 +43,9 @@ onnx-simplifier
 onnxoptimizer
 onnxruntime
 onnxsim
-opencv-python==4.8.0.74
+opencv-python==4.8.1.78
 pccm
-pillow==9.5.0
+pillow==12.2.0
 Polygon3
 protobuf
 pyarmor
